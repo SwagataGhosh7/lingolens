@@ -1,2 +1,6 @@
 *.kt linguist-language=Kotlin
 *.gradle.kts linguist-language=Kotlin
+*.xml linguist-language=XML
+*.properties linguist-language=Properties
+*.toml linguist-language=TOML
+*.pro linguist-language=ProGuard
