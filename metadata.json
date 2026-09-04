@@ -1,0 +1,6 @@
+{
+  "name": "LingoLens",
+  "description": "A language-learning flashcard app that uses the device camera and Gemini API to identify real-world objects and translate them.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
